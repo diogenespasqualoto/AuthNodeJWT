@@ -10,6 +10,7 @@ A autenticação é uma funcionalidade importante em muitas aplicações, pois g
 acesso a determinadas funcionalidades.
 
 ## Funcionalidades
+
 - Registro de Usuário: permite que um novo usuário crie uma conta na aplicação, fornecendo um nome de usuário e uma senha.
 - Login de Usuário: permite que um usuário autenticado faça login na aplicação, fornecendo o nome de usuário e a senha cadastrados.
 - Proteção de Rotas: uma vez autenticado, o usuário pode acessar rotas protegidas na aplicação, como páginas de perfil ou funcionalidades específicas.
